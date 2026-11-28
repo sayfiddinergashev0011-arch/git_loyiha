@@ -1,0 +1,82 @@
+<div align="center">
+
+# 🌟 Loyiha nomi
+
+**Loyihaning bitta jumlalik shiori yoki tavsifi.**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
+
+[Demo](https://example.com) · [Xatolik haqida xabar](https://github.com/USERNAME/REPO-NOMI/issues) · [Yangi imkoniyat so'rash](https://github.com/USERNAME/REPO-NOMI/issues)
+
+</div>
+
+---
+
+## 📖 Loyiha haqida
+
+Bu loyiha nima muammoni hal qiladi va nima uchun yaratilgan? 2-3 jumlada yozing.
+
+## 🎯 Asosiy imkoniyatlar
+
+| Imkoniyat | Tavsif |
+|-----------|--------|
+| 🔐 Autentifikatsiya | Ro'yxatdan o'tish va tizimga kirish |
+| 📝 CRUD amallari | Ma'lumot qo'shish, o'zgartirish, o'chirish |
+| 🔎 Qidiruv | Tezkor qidiruv va filtrlash |
+| 📱 Moslashuvchan dizayn | Telefon va kompyuterda to'g'ri ishlaydi |
+
+## 🧰 Tech Stack
+
+| Qism | Texnologiyalar |
+|------|----------------|
+| **Frontend** | HTML, CSS, JavaScript |
+| **Backend** | Python, Django |
+| **Ma'lumotlar bazasi** | PostgreSQL |
+| **Deploy** | Render / Vercel / Railway |
+
+## 🚀 Ishga tushirish
+
+```bash
+# Klonlash
+git clone https://github.com/USERNAME/REPO-NOMI.git
+cd REPO-NOMI
+
+# Virtual muhit yaratish
+python -m venv venv
+source venv/bin/activate      # Windows: venv\Scripts\activate
+
+# Kutubxonalarni o'rnatish
+pip install -r requirements.txt
+
+# Migratsiyalar va serverni ishga tushirish
+python manage.py migrate
+python manage.py runserver
+```
+
+Brauzerda oching: `http://127.0.0.1:8000`
+
+## 🔧 Muhit o'zgaruvchilari
+
+`.env` faylini yarating:
+
+```env
+SECRET_KEY=sizning_maxfiy_kalitingiz
+DEBUG=True
+DATABASE_URL=postgres://user:password@localhost:5432/dbname
+```
+
+## 🗺 Rejalar (Roadmap)
+
+- [x] Asosiy funksiyalar
+- [x] Dizaynni moslashtirish
+- [ ] Testlar yozish
+- [ ] Deploy qilish
+
+## 👨‍💻 Muallif
+
+**Ismingiz** — [GitHub](https://github.com/USERNAME) · [Telegram](https://t.me/username)
+
+⭐ Loyiha yoqqan bo'lsa, yulduzcha qo'yishni unutmang!
